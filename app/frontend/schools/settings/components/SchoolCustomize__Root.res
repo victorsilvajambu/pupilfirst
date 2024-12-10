@@ -394,7 +394,7 @@ let make = (~authenticityToken, ~customizations, ~schoolName, ~schoolAbout) => {
         <h2 className="school-customize__featured-courses-header relative text-2xl font-bold">
           {t("featured_courses")->str}
         </h2>
-        <div className="text-sm"> {"Featured courses will be listed here"->str} </div>
+        <div className="text-sm"> {t("featured_courses_empty")->str} </div>
         <div className="max-w-2xl bg-gray-50 rounded-lg mx-auto p-3 mt-4">
           <div className="school-customize__featured-courses-empty-placeholder" />
         </div>

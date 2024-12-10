@@ -449,6 +449,7 @@ en:
           active: Active
           archived: Archived
           ended: Ended
+        suggestions: "Suggestions:"
       notification_error_body: Our team has been notified about this error. Please try reloading this page.
       notification_error_head: An unexpected error occurred
       quick_links: Quick Links
@@ -1459,6 +1460,7 @@ en:
       edit_social_links: Edit social media links
       edit_terms: Edit Terms & Conditions
       featured_courses: Featured Courses
+      featured_courses_empty: Featured courses will be listed here
       hello_welcome: Hello, welcome to
       homepage: Home Page
       icon: Icon
