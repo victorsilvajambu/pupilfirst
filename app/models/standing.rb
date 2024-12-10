@@ -22,7 +22,7 @@ class Standing < ApplicationRecord
             }
 
   validates :color, presence: true
-  validates_with RateLimitValidator, limit: 15, scope: :school_id
+  validates_with RateLimitValidator, limit: 20, scope: :school_id
 
   normalize_attributes :description, :name
 
