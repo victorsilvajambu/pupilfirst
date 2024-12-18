@@ -1317,8 +1317,8 @@ pt-br:
       remove_confirm_pre: Você tem certeza de que deseja remover
     SchoolAdmins__Form:
       add_new_admin: Adicionar novo administrador de escola
-      admin_created_notification: School Admin criado com sucesso.
-      admin_updated_notification: O School Admin foi atualizado com sucesso.
+      admin_created_notification: Administrador da Escola criado com sucesso.
+      admin_updated_notification: O Administrador da Escola foi atualizado com sucesso.
       create_admin: Criar administrador da escola
       email_error: Digite um e-mail válido
       email_placeholder: Adicionar e-mail aqui
@@ -1443,7 +1443,7 @@ pt-br:
       add_address_q: Adicionar um endereço?
       add_contact_email_q: Adicionar um e-mail de contato?
       add_more_details: Adicione mais detalhes sobre a escola.
-      change_cover: Mudar a cobertura
+      change_cover: Mudar a capa
       contact: Contato
       customize_link_footer: Você pode personalizar os links no rodapé.
       customize_link_header: Você pode personalizar os links no cabeçalho.
@@ -2631,7 +2631,7 @@ pt-br:
           community: Comunidade
     courses:
       cohorts:
-        page_title: Cohorts | %{course_name}
+        page_title: Turmas | %{course_name}
       leaderboard:
         heading:
           multiple_mid_text: "estão no topo da tabela de classificação esta semana, compartilhando uma pontuação de "
